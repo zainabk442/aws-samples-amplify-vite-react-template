@@ -1,0 +1,1 @@
+# aws-samples-amplify-vite-react-template
